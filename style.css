@@ -1,0 +1,14 @@
+body{
+     background-color: aliceblue;
+     color: blue;
+     font-family: cursive;
+    }
+
+html{
+    background-image: url(https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg);
+}
+
+
+.heartmove{
+    margin-left:90%;
+}
